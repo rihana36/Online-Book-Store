@@ -6,4 +6,5 @@
 				Square70x70Logo="resources\app\resources\win32\code_70x70.png"
 				ForegroundText="light"
 				ShortDisplayName="VS Code" />
+	hello world!
 </Application>
